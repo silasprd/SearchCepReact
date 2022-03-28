@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SearchCepReact/static/css/main.cad2be70.css",
+    "main.js": "/SearchCepReact/static/js/main.9b3efd5c.js",
+    "index.html": "/SearchCepReact/index.html",
+    "main.cad2be70.css.map": "/SearchCepReact/static/css/main.cad2be70.css.map",
+    "main.9b3efd5c.js.map": "/SearchCepReact/static/js/main.9b3efd5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad2be70.css",
+    "static/js/main.9b3efd5c.js"
+  ]
+}
